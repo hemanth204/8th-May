@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="5th May" max_length="40" name="x_69202_sample_app_5th_may" type="collection">
+        <element label="Date of Accomodation Needed" max_length="40" name="date_of_accomodation_needed" type="glide_date"/>
+        <element label="FName" max_length="40" name="fname" type="string"/>
+        <element label="LName" max_length="40" name="lname" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

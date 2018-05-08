@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-05 13:26:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>74072543db719300351059d0cf961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_69202_sample_app_5th_may.x_69202_sample_app.5th_may_user</sys_name>
+        <sys_package display_value="Sample Application" source="x_69202_sample_app">44a6a90fdb319300351059d0cf9619be</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sample Application">44a6a90fdb319300351059d0cf9619be</sys_scope>
+        <sys_security_acl display_value="x_69202_sample_app_5th_may">f4072543db719300351059d0cf96194f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_74072543db719300351059d0cf961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-05 13:26:43</sys_updated_on>
+        <sys_user_role display_value="x_69202_sample_app.5th_may_user" name="x_69202_sample_app.5th_may_user">e4072543db719300351059d0cf961920</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
